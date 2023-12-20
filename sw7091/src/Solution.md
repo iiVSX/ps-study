@@ -1,3 +1,4 @@
+<pre>
 Algorithm : Rabin-Karp Algorithm
 Problem : N*M 배열에서 H*W 배열이 나타나는 횟수를 구하시오
 Idea : 
@@ -9,3 +10,4 @@ Idea :
 MoreOver:
   Hash Function을 어떻게 Set할 것 인지
   해시 값이 같다고해서 항상 같은 필터를 가짐을 보장하는 지
+</pre>
